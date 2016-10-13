@@ -2,3 +2,6 @@
 *.o
 *.elf
 *.DS_Store
+*.d
+
+README.md
